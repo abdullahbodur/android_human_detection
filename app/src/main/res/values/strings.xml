@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Human Detection</string>
+
+    <string-array name="human_detecion_process">
+        <item>With Canny</item>
+        <item>With Custom Function</item>
+    </string-array>
+</resources>
