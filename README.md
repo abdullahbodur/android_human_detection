@@ -11,4 +11,4 @@ Some tutorials :
   [English Tutorial](https://heartbeat.fritz.ai/a-guide-to-preparing-opencv-for-android-4e9532677809)
 ### Screenshot
 
-![alt text](https://github.com/abdullahbodur/android_human_detection/tree/main/static/image.jpg?raw=true)
+![alt text](https://github.com/abdullahbodur/android_human_detection/blob/main/static/image.jpg?raw=true)
